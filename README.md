@@ -9,6 +9,10 @@
   • JavaScript<br>
   • Lua<br>
   • Python<br>
+  • TypeScript<br>
+  • C#
+  • C
+  • C++
  </strong>
 </details>
 
